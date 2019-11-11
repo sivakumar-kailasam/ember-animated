@@ -87,7 +87,8 @@
     "node": "8.* || >= 10.*"
   },
   "ember-addon": {
-    "configPath": "tests/dummy/config"
+    "configPath": "tests/dummy/config",
+    "demoURL": "https://ember-animation.github.io/ember-animated/"
   },
   "resolutions": {
     "ember-cli-addon-docs/ember-data": "3.10.0",
